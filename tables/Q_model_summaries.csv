@@ -1,0 +1,17 @@
+"","AIC","AUC","Accuracy"
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + log(BRK2_Quant+1)*S1_93_11 + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",465.609829834172,0.964399062396283,0.9
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + log(BRK2_Quant+1)*S1_93_11 + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",466.536969414087,0.967095710255559,0.9
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",464.026872031958,0.964336832061069,0.896825396825397
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",465.210838860197,0.96817436939927,0.898412698412698
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + log(BRK2_Quant+1)*S1_93_11 + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",468.458460762883,0.963185570859608,0.9
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + log(BRK2_Quant+1)*S1_93_11 + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",468.693097533289,0.965944449054099,0.893650793650794
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",467.793840536831,0.962998879853966,0.903174603174603
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + log(BRK2_Quant+1) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",468.326895760302,0.966473406903419,0.896825396825397
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + log(BRK2_Quant+1)*S1_93_11 + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",467.025993918282,0.964533894789247,0.9
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + log(BRK2_Quant+1)*S1_93_11 + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",468.502375748853,0.96642154829074,0.893650793650794
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",465.216839736939,0.964523523066711,0.898412698412698
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + I(log(BRK2_Quant+1)^2) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",467.1140618083,0.967583181214736,0.898412698412698
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + log(BRK2_Quant+1)*S1_93_11 + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",469.736103707172,0.96390121971457,0.892063492063492
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + log(BRK2_Quant+1)*S1_93_11 + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",470.422831116042,0.964098282442748,0.893650793650794
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + log(BRK2_Quant+1)*log(MS_Hist) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",468.680399783182,0.963351518420179,0.898412698412698
+"BUT1_P ~ log(MS_Hist) + S1_93_11 + SLOPE + log(BRK2_Quant+1) + (1 + log(MS_Hist) + log(BRK2_Quant+1) | Patch)",470.151657197144,0.965695527713243,0.893650793650794
