@@ -8,16 +8,19 @@ All scripts use the dataset "FlintRock_UClarkFork_Bull_Brook.csv" which is compo
 except for BullBrook_electro_eDNA_concordance, which draws on "UpperClarkFork_eDNA-electrofishing-concordance.csv"
 
 BullBrook_data_summaries
-- Summary stats for covariates 
-- Correlation matrix of covariates and bull trout eDNA presence/absence
-- Various other summaries in Results of ms (# positive sites, flow in positive sites, etc)
+* Summary stats for covariates 
+* Correlation matrix of covariates and bull trout eDNA presence/absence
+* Various other summaries in Results of ms (# positive sites, flow in positive sites, etc)
+
 BullBrook_model_selection
-- Hierarchical model selection (RE then FE) for bull trout models
-- Includes user-defined functions to estimate AUC and confusion matrices (model accuracy)
+* Hierarchical model selection (RE then FE) for bull trout models
+* Includes user-defined functions to estimate AUC and confusion matrices (model accuracy)
+
 BullBrook_influence_and_CI
-- Fitting of patch influence object
-- Calculating/plotting Cook's Distance/patch
-- Parametric bootstrap of fixed effect confidence intervals
+* Fitting of patch influence object
+* Calculating/plotting Cook's Distance/patch
+* Parametric bootstrap of fixed effect confidence intervals
+
 BullBrook_kernal_density_delta
 - Script to calculate and plot density of sites by TEMP and FLOW
 BullBrook_temp_flow_response_curves
