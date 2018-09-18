@@ -22,21 +22,27 @@ BullBrook_influence_and_CI
 * Parametric bootstrap of fixed effect confidence intervals
 
 BullBrook_kernal_density_delta
-- Script to calculate and plot density of sites by TEMP and FLOW
+* Script to calculate and plot density of sites by TEMP and FLOW
+
 BullBrook_temp_flow_response_curves
-- Figures of Pr(bull trout) ~ FLOW and TEMP
+* Figures of Pr(bull trout) ~ FLOW and TEMP
+
 BullBrook_brk_response_curves_fig
-- Figure showing modeled effected of brook trout relative abundance on probability of bull trout
+* Figure showing modeled effected of brook trout relative abundance on probability of bull trout
+
 BullBrook_random_patch_response_cuves
-- Figure showing response curves by patch with random intercepts and slopes
+* Figure showing response curves by patch with random intercepts and slopes
+
 BullBrook_brook_eDNA_quants
-- Figure showing relationship between brook trout eDNA concentrations and habitat covariates
+* Figure showing relationship between brook trout eDNA concentrations and habitat covariates
+
 BullBrook_BRK_projections
-- Brook trout eDNA concentration model and assessment
-- Brook trout future simulations
-- Bull trout climate projections
-- Associated figures and summary statistics
+* Brook trout eDNA concentration model and assessment
+* Brook trout future simulations
+* Bull trout climate projections
+* Associated figures and summary statistics
+
 BullBrook_electro_eDNA_concordance
-- concordance between historic electrofishing and eDNA sampling
+* concordance between historic electrofishing and eDNA sampling
 
 Except for Figure 1, all figures should be completely reproduceable from the R scripts. Figure 1 was constructed from a composite of ArcGIS maps and the underlying data for this visualization is contained within the dataset (locations and detection results).
